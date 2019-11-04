@@ -7,3 +7,6 @@ Set of scripts which allow a user to quickly copy data to a database inside a lo
 - Update Setup.json & TablesToCopy.json before running the script "Copy-DataToContainerDB.ps1".
 - "sqlWhereClause" can be used to copy specific sets of records from source to destination.
 - Tables will be automatically cleaned before copying using either truncation or deletion.
+
+### License
+Licensed under the MIT License
