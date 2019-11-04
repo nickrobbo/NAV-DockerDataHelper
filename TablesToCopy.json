@@ -1,0 +1,8 @@
+{
+    "tables": [
+        {
+            "tableName" : "CRONUS UK Ltd_$Customer",
+            "sqlWhereClause" : "[No_] = 'C00010'" 
+        }
+    ]
+}
